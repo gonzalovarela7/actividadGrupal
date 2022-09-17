@@ -1,2 +1,2 @@
 # actividadGrupal
-- Varela Gonzalo 
+- Ezequiel Bravo
