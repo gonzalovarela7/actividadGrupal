@@ -1,2 +1,4 @@
  # actividadGrupal
-- Matias Montañez 
+- Ezequiel Bravo 
+- Matias Montañez
+
