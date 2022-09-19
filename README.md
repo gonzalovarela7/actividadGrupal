@@ -1,2 +1,2 @@
 # actividadGrupal
-- Ezequiel Bravo
+- Luis Jimenez
